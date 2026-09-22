@@ -177,3 +177,48 @@
 ### Free Sentences (E2)
 1. The tmp_path fixture helps isolate each test by giving it a unique temporary directory, so tests never interfere with each other.
 2. We refactored main() to extract clean_csv, and the header-only test proved that example fidelity is not just a claim in the README but a verified fact.
+
+# English Log — Words 71–75
+
+## 71. headline (n.)
+- **Meaning (AR):** السطر التعريفي أعلى البروفايل
+- **Example:** My headline shows my role and skills in one line.
+
+## 72. recruiter (n.)
+- **Meaning (AR):** موظّف التوظيف الذي يبحث عن المرشّحين
+- **Example:** A recruiter reads the first 50 characters of my headline.
+
+## 73. evidence (n.)
+- **Meaning (AR):** دليل ملموس يثبت الادعاء
+- **Example:** The 5 pytest tests are evidence that the code works.
+
+## 74. concise (adj.)
+- **Meaning (AR):** موجز — قليل الكلمات وكامل المعنى
+- **Example:** My post is concise: 108 words, no filler.
+
+## 75. milestone (n.)
+- **Meaning (AR):** محطة إنجاز فارقة
+- **Example:** Publishing my first LinkedIn post is a milestone.
+
+---
+
+## Shadowing (3 sentences from my post)
+
+1. "I built a Python CLI that runs each row through 6 validation checks in a specific order."
+2. "Every rejected row is logged with the exact reason — and the pipeline is covered by 5 pytest tests, so nothing fails silently."
+3. "The rejection log is the product: it tells you exactly what's wrong and why."
+
+---
+
+## Completions
+
+- A **recruiter** reads my **headline** before anything else, so it must be **concise**.
+- Numbers like 56, 10, and 46 are the **evidence** behind my claim.
+- Publishing my first post is a **milestone** because it turns my work into a public record.
+
+---
+
+## Free Sentences
+
+1. A recruiter looks for evidence, not adjectives — so I kept my post concise.
+2. Every milestone starts with a small, honest headline.
