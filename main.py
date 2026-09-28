@@ -113,6 +113,7 @@ def main():
     """CLI & Error handling layer."""
     logging.basicConfig(
         level=logging.DEBUG,
+        filemode='w',
         format='%(levelname)s - %(message)s',
         filename='logs/student_records.log')
 
