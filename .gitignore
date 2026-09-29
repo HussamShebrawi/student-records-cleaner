@@ -11,3 +11,6 @@ logs/*.log
 
 # pytest
 .pytest_cache/
+
+# SQLite
+*.db
